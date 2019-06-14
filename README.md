@@ -1,0 +1,2 @@
+# mtutor
+mTutor is a website developed to connect the students with their best suitable tutors. It is a platform where a student is suggested with the available tutors or guides which he or she desires. The tutor receives notifications, to which a response can be generated. Time is scheduled and further connection is established. The moderator verifies the accounts and enforces regular checks on the system.
